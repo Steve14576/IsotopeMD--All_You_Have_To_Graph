@@ -1,0 +1,74 @@
+{
+  "1": {
+    "page": 2,
+    "caption": "Figure 1: The self-consistency method contains three steps: (1) prompt a language model using chain-of-thought (CoT) prompting; (2) replace the “greedy decode” in CoT prompting by sampling from the language model’s decoder to generate a diverse set of reasoning paths; and (3) marginalize out the reasoning paths and aggregate by choosing the most consistent answer in the ﬁnal answer set.",
+    "file": "figure_01.png",
+    "size": [
+      1870,
+      816
+    ]
+  },
+  "2": {
+    "page": 6,
+    "caption": "Figure 2: Self-consistency (blue) signiﬁcantly improves accuracy over CoT-prompting with greedy decoding (orange) across arithmetic and commonsense reasoning tasks, over LaMDA-137B. Sampling a higher number of diverse reasoning paths consistently improves reasoning accuracy.",
+    "file": "figure_02.png",
+    "size": [
+      1870,
+      938
+    ]
+  },
+  "3": {
+    "page": 7,
+    "caption": "Figure 3: Self-consistency signiﬁcantly outperforms sample-and-rank with the same # of samples.",
+    "file": "figure_03.png",
+    "size": [
+      1870,
+      943
+    ]
+  },
+  "4": {
+    "page": 8,
+    "caption": "Figure 4: GSM8K accuracy. (Left) Self-consistency is robust to various sampling strategies and parameters. (Right) Self-consistency improves performance across language model scales.",
+    "file": "figure_04.png",
+    "size": [
+      1870,
+      980
+    ]
+  },
+  "5": {
+    "page": 8,
+    "caption": "Figure 5: The consistency is cor- related with model’s accuracy.",
+    "file": "figure_05.png",
+    "size": [
+      935,
+      1733
+    ]
+  },
+  "6": {
+    "page": 16,
+    "caption": "Figure 6: GSM8K accuracy over LaMDA-137B. Self-consistency works under various sampling strategies and sampling parameters.",
+    "file": "figure_06.png",
+    "size": [
+      1870,
+      920
+    ]
+  },
+  "7": {
+    "page": 16,
+    "caption": "Figure 7: Self-consistency (blue) signiﬁcantly improves accuracy across various arithmetic and commonsense reasoning tasks, over LaMDA-137B. Sampling a higher number of diverse reasoning paths consistently improves reasoning accuracy.",
+    "file": "figure_07.png",
+    "size": [
+      1870,
+      1613
+    ]
+  },
+  "8": {
+    "page": 17,
+    "caption": "Figure 8: Self-consistency (blue) signiﬁcantly improves accuracy across various arithmetic and commonsense reasoning tasks, over PaLM-540B. Sampling a higher number of diverse reasoning paths consistently helps reasoning accuracy.",
+    "file": "figure_08.png",
+    "size": [
+      1870,
+      991
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "1": {
+    "page": 1,
+    "caption": "Figure 1. Overview of LATS. Serving as a unified framework,",
+    "file": "figure_01.png",
+    "size": [
+      935,
+      400
+    ]
+  },
+  "2": {
+    "page": 5,
+    "caption": "Figure 2. Overview of the six operations in LATS. A node is selected, expanded, evaluated, then simulated until a terminal node is reached,",
+    "file": "figure_02.png",
+    "size": [
+      1870,
+      585
+    ]
+  },
+  "3": {
+    "page": 16,
+    "caption": "Figure 3. Performance over successive iterations on HumanEval with GPT-3.5.",
+    "file": "figure_03.png",
+    "size": [
+      935,
+      595
+    ]
+  },
+  "4": {
+    "page": 17,
+    "caption": "Figure 4. Example trajectories on HotPotQA for ReAct (left) and LATS (right). LATS can sample more actions and avoid failure from",
+    "file": "figure_04.png",
+    "size": [
+      1870,
+      905
+    ]
+  }
+}
